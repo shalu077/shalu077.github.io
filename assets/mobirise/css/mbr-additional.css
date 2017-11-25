@@ -12,3 +12,15 @@
 #menu-1 .navbar-brand {
   font-family: 'Oswald', sans-serif;
 }
+
+
+#menu-9 .navbar-toggler {
+  color: #000;
+}
+#menu-9 .nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 17px;
+}
+#menu-9 .navbar-brand {
+  font-family: 'Oswald', sans-serif;
+}
