@@ -51,7 +51,7 @@
           },
           "title": "",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#gallery1-2\" data-toolbar=\"-mbrBtnMove\">OUR WORK VIDEOS&nbsp;<br></a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://shalu077.github.io/\" data-toolbar=\"-mbrBtnMove\">OUR WORK VIDEOS&nbsp;<br></a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -161,11 +161,12 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-530x353.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-favicon.png",
               "width": 265,
-              "link": "",
+              "link": "https://shalu077.github.io/",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -173,8 +174,7 @@
               "name": "contact-form",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "text1": "<strong>Address</strong><br>Plot -941<br>Delhi",
